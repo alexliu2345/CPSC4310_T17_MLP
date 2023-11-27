@@ -1,3 +1,7 @@
+GPU Cryptocurrency Price Correlation model
+Examines relationship beteween GPU and Cryptocurrency price fluctutations based on input variables such as GPU vendor, memory capacity, and processor
+
+
 DATASETS (CONTAINS INFO ON FILE NAME, SHAPE, ATTRIBUTE INFO)
 ~~~~~~~~~
 DIM_CRYPTO_DATA.csv 
